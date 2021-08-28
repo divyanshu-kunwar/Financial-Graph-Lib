@@ -28,7 +28,7 @@ CLASSIFIERS=['Development Status :: 3 - Alpha',
   
 # calling the setup function 
 setup(name='Financial Graph Lib',
-      version='1.0.0',
+      version='1.0.1',
       description='Financial graph lib for different stock market graph',
       url='https://github.com/kUNWAR-DIVYANSHU/Financial-Graph-Lib',
       author='Homofabers Stock Devs',
