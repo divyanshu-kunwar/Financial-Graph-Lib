@@ -9,21 +9,9 @@ pkg_name     = 'lib'
 REQUIREMENTS = ['pandas','numpy','matplotlib']
   
 # some more details
-CLASSIFIERS=['Development Status :: 3 - Alpha',
-                   'Programming Language :: Python :: 3',
-                   'Programming Language :: Python :: 3.6',
-                   'Programming Language :: Python :: 3.7',
-                   'Programming Language :: Python :: 3.8',
-                   'Framework :: Matplotlib',
-                   'Intended Audience :: Developers',
-                   'Intended Audience :: Education',
-                   'Intended Audience :: Financial and Insurance Industry',
-                   'Intended Audience :: Science/Research',
-                   'License :: OSI Approved :: BSD License',
-                   'Topic :: Office/Business :: Financial',
-                   'Topic :: Office/Business :: Financial :: Investment',
-                   'Topic :: Scientific/Engineering :: Visualization',
-                   'Topic :: Scientific/Engineering :: Information Analysis',
+CLASSIFIERS=["Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
                    ],
   
 # calling the setup function 
