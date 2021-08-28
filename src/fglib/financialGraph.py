@@ -2,10 +2,7 @@
 from pandas import DataFrame , Series
 
 # library created by homofabers community
-import fglib.renkolib as renkolib
-import fglib.linebreaklib as linebreaklib
-import fglib.kagilib as kagilib
-import fglib.pnflib as pnflib
+from fglib import renkolib , linebreaklib , kagilib, pnflib
 
 class Data:
     def __init__(self , df : DataFrame , graphtype="candle"):

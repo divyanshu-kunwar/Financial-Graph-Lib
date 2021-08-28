@@ -1,4 +1,4 @@
-import fglib.atrlib
+from fglib import atrlib
 import pandas as pd
 def renko(df):
     d , l , h ,lbo ,lbc,vol=[],[],[],[],[],[]

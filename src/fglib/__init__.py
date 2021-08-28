@@ -1,6 +1,6 @@
-import fglib.atrlib
-import fglib.financialGraph
-import fglib.kagilib
-import fglib.linebreaklib
-import fglib.pnflib
-import fglib.renkolib
+from fglib import atrlib
+from fglib import financialGraph
+from fglib import kagilib
+from fglib import linebreaklib
+from fglib import pnflib
+from fglib import renkolib
