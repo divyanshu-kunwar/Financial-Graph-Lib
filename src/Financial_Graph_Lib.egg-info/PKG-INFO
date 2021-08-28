@@ -8,7 +8,9 @@ Author-email: kdivyanshu3@gmail.com
 License: MIT
 Keywords: finance graph stocks analysis line area baseline candle hollow hollowcandle renko pnf point and figure
 Platform: UNKNOWN
-Classifier: ['Development Status :: 3 - Alpha', 'Programming Language :: Python :: 3', 'Programming Language :: Python :: 3.6', 'Programming Language :: Python :: 3.7', 'Programming Language :: Python :: 3.8', 'Framework :: Matplotlib', 'Intended Audience :: Developers', 'Intended Audience :: Education', 'Intended Audience :: Financial and Insurance Industry', 'Intended Audience :: Science/Research', 'License :: OSI Approved :: BSD License', 'Topic :: Office/Business :: Financial', 'Topic :: Office/Business :: Financial :: Investment', 'Topic :: Scientific/Engineering :: Visualization', 'Topic :: Scientific/Engineering :: Information Analysis']
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 License-File: LICENSE
 
