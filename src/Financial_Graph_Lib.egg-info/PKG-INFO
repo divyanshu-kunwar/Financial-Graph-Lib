@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: Financial-Graph-Lib
+Version: 1.0.0
+Summary: Financial graph lib for different stock market graph
+Home-page: https://github.com/kUNWAR-DIVYANSHU/Financial-Graph-Lib
+Author: Homofabers Stock Devs
+Author-email: kdivyanshu3@gmail.com
+License: MIT
+Keywords: finance graph stocks analysis line area baseline candle hollow hollowcandle renko pnf point and figure
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Internet
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+License-File: LICENSE
+
+UNKNOWN
+

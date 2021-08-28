@@ -6,7 +6,6 @@ REQUIREMENTS = ['pandas','numpy','matplotlib']
   
 # some more details
 CLASSIFIERS = [
-    'Development Status :: Beta',
     'Intended Audience :: Developers',
     'Topic :: Internet',
     'License :: OSI Approved :: MIT License',
