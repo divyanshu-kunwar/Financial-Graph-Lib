@@ -10,7 +10,7 @@ REQUIREMENTS = ['pandas','numpy','matplotlib']
   
 # calling the setup function 
 setup(name='Financial Graph Lib',
-      version='1.0.2',
+      version='1.0.4',
       description='Financial graph lib for different stock market graph',
       url='https://github.com/kUNWAR-DIVYANSHU/Financial-Graph-Lib',
       author='Homofabers Stock Devs',
